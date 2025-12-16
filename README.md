@@ -1,7 +1,3 @@
-# machine-learning-projects-portfolio
-Collection of machine learning, deep learning, and LLM-based projects demonstrating real-world applications.
-
-
 # Machine Learning Projects Portfolio
 
 This repository contains selected machine learning, deep learning, and LLM-based projects showcasing practical, real-world problem solving.
