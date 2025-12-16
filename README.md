@@ -4,7 +4,7 @@ This repository contains selected machine learning, deep learning, and LLM-based
 
 ---
 
-Real-Time Malware Detection IDS
+## Real-Time Malware Detection IDS
   Tech: Machine Learning, Zeek, Streamlit  
 
 - Built a real-time Intrusion Detection System using ML and Zeek logs
@@ -17,7 +17,7 @@ File: `Malware_Detection_IDS.ipynb`
 
 ---
 
-Cold Email Generator (LLM-Based)
+## Cold Email Generator (LLM-Based)
   Tech: LLMs, LangChain, NLP, Streamlit  
 
 - Developed an LLM-powered cold email generation tool for service companies
@@ -29,7 +29,7 @@ File: `Cold_Email_Generator_LLM.ipynb`
 
 ---
 
-Potato Disease Prediction
+## Potato Disease Prediction
   Tech: Deep Learning, TensorFlow, Image Processing  
 
 - CNN-based image classification system for potato disease detection
@@ -41,6 +41,6 @@ File: `Potato_Disease_Prediction.ipynb`
 
 ---
 
-## 📌 Notes
+## Notes
 - Projects are implemented as Jupyter notebooks for clarity and experimentation
 - Some datasets and API keys are not included due to size and security constraints
